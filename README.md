@@ -1,6 +1,6 @@
 # Anchorly
 
-![Anchorly Banner](1.png)
+![Anchorly Banner](icon.png)
 
 > **Free anchor saver Chrome extension to highlight, organize, and revisit selected text on webpages.**
 
